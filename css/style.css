@@ -297,7 +297,7 @@ a:focus {
 }
 
 .us_section {
-  background-image: url(../images/us-bg.jpg);
+  background-image: url(../images/team/Team.jpg);
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
@@ -440,7 +440,7 @@ a:focus {
 
 .contact_section {
   position: relative;
-  background-color: #27223f;
+  background-color: #333a2f;
   color: #ffffff;
 }
 
@@ -512,7 +512,7 @@ a:focus {
 }
 
 .info_section {
-  background-color: #252233;
+  background-color: #333a2f;
 }
 
 .info_items {
@@ -576,7 +576,7 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #fbfdfd;
+  background-color: #6ea0a4;
   padding: 20px;
   font-weight: 500;
 }
